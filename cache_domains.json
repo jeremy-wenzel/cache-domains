@@ -78,11 +78,6 @@
 			"domain_files": ["rockstar.txt"]
 		},
 		{
-			"name": "sony",
-			"description": "CDN for sony / playstation",
-			"domain_files": ["sony.txt"]
-		},
-		{
 			"name": "square",
 			"description": "CDN for Final Fantasy XIV",
 			"domain_files": ["square.txt"]
@@ -116,11 +111,6 @@
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
-		},
-		{
-			"name": "xboxlive",
-			"description": "CDN for xboxlive",
-			"domain_files": ["xboxlive.txt"]
 		}
 	]
 }
